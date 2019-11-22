@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Deliver article.",
+	  "date": "11/12/19"
+    },
+	{
+      "id": 2,
+      "task": "Go to the meeting.",
+	  "date": "01/12/19",
+	  "hour": "12:00:00"
+    },
+	{
+      "id": 3,
+      "task": "Send email to manner.",
+	  "date": "02/12/19"
+    },
+	{
+      "id": 4,
+      "task": "Deliver books.",
+	  "date": "15/12/19"
+    },
+	{
+      "id": 5,
+      "task": "Search bibliography references."
+    }
+  ]
+}
